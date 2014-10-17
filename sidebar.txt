@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[niq:home|Door43 (niq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-niq|d43-niq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-niq/archive/master.zip|d43-niq.zip]]
+
+**Recent Changes**
+{{changes>ns = niq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/niq|Ethnologue data]]
+
